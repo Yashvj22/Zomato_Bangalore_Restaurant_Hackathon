@@ -15,6 +15,10 @@ Analyze the popularity of various cuisines and identify high-rated spots with 10
 📍 Neighborhood Analysis:
 Discover which areas have the highest concentration of restaurants, and how dining trends vary across localities
 
+## Cuisine-Specific Map (Italian Restaurants)
+
 ![Map 1](Images/map.PNG)
+
+## Restaurant Density Map
 
 ![Map 2](Images/map2.PNG)
